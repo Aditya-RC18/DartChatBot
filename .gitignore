@@ -47,4 +47,6 @@ android/app/release
 *.env
 
 # Ignore DartChatBot APIs folder
-DartChatBot/lib/apis/
+lib/apis/
+
+
